@@ -3,7 +3,7 @@
 <img src="assets/banner.svg" alt="Ilyas Ajelyan — Blue Team · SOC · Detection Engineering" width="100%" />
 
 <p>
-Fourth-year <b>Cybersecurity &amp; Networks</b> engineering student at <b>EMSI Tanger</b>,
+Fifth-year <b>Cybersecurity &amp; Networks</b> engineering student at <b></b>,
 focused on defensive security, SOC operations, and detection engineering —
 SIEM/SOAR, Sigma-style rules, MITRE ATT&amp;CK, alert triage, log analysis, and
 incident response, with a side interest in blockchain security.
